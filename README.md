@@ -26,5 +26,8 @@ A collection for accept items in input with file type. **Welcome correct and add
 * [.ppsm] application/vnd.ms-powerpoint.slideshow.macroEnabled.12
 * [.mdb] application/vnd.ms-access
 * [pdf] application/pdf
-
+* [.txt] text/plain
+* [.html] text/html
+* [.avi, .mpg, .mpeg, .mp4] video/*
+* [.mp3, .wav, etc] audio/*
 
